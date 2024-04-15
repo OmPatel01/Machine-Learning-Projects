@@ -1,1 +1,1 @@
-# Machine-Learning-Projects-Regression
+# Machine-Learning-Projects
