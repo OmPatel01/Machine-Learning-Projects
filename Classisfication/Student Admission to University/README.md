@@ -1,4 +1,9 @@
 ## :mortar_board: Predicting Student Admission to University 
+
+### Streamlit Web Application
+
+Explore the interactive web application deployed using Streamlit [here](https://student-admission-prediction.streamlit.app/). Engage with the data and experience the predictive power firsthand!
+
 ### Summary
 
 This project analyzes data related to student admission to universities. The dataset contains information on various factors that may influence admission decisions, such as GRE scores, TOEFL scores, university ratings, statement of purpose (SOP), letters of recommendation (LOR), cumulative grade point average (CGPA), research experience, and admission outcomes.
