@@ -1,5 +1,7 @@
 # 🔍 Revealing Shopping Personalities: Customer Segmentation 🛍️
 
+I have built a user interface for this project using Streamlit. [Click here](https://mallcustomersegmentation.streamlit.app/) to explore the web app made using Streamlit.
+
 ## K-Means Clustering
 
 In this project, K-Means clustering is utilized to segment mall customers based on their annual income and spending score. K-Means is an unsupervised machine learning algorithm that partitions data into clusters, with each cluster represented by its centroid. It iteratively assigns data points to the nearest centroid and updates the centroids until convergence.
@@ -35,3 +37,4 @@ In this project, five clusters are formed using K-Means clustering:
 ## Conclusion
 
 Customer segmentation through K-Means clustering reveals distinct shopping personalities within the customer base. By understanding the characteristics and preferences of each segment, businesses can develop targeted marketing campaigns, personalized offerings, and tailored experiences to effectively engage and retain customers, ultimately driving business growth and success.
+
