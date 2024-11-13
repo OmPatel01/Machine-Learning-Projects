@@ -4,7 +4,7 @@
 This project focuses on predicting **hourly CO₂ emissions** generated in the steel industry, helping stakeholders understand and reduce their environmental impact. By accurately forecasting emissions, businesses can make data-driven decisions to improve sustainability in their production processes.
 
 ## Business Problem
-Steel production is a significant source of CO2 emissions, impacting climate change and sustainability goals. To mitigate this, companies need a clear, accurate measure of their emissions on an hourly basis. This project solves the problem by providing hourly predictions of CO₂ emissions based on various operational factors, supporting efforts to:
+Steel production is a significant source of CO₂ emissions, impacting climate change and sustainability goals. To mitigate this, companies need a clear, accurate measure of their emissions on an hourly basis. This project solves the problem by providing hourly predictions of CO₂ emissions based on various operational factors, supporting efforts to:
 
 - Monitor emissions and identify areas for improvement.
 - Meet regulatory standards by maintaining emission records.
