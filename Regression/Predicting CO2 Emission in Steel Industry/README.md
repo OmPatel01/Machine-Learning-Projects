@@ -40,7 +40,11 @@ The dataset contains the following key features:
 ## Results
 - The model trained with **Polynomial Regression (degree 2)** provided **more accurate predictions** than linear regression.
 - Dimensionality reduction with PCA allowed us to visualize CO₂ emissions across different production settings, showing non-linear patterns in emissions over time.
+  
+## UI and Deployment
+A user-friendly interface was built using **Streamlit** to allow users to interact with the CO₂ emission prediction model. This UI enables users to input relevant operational data and view real-time predictions of hourly CO₂ emissions, alongside visualizations of emission trends and equivalent environmental impact.
 
+The app is deployed for easy access [here](https://predicting-co2-emission.streamlit.app/).
 ## Conclusion
 This project demonstrates that **Polynomial Regression** with a **degree of 2** effectively captures non-linear patterns in CO₂ emissions, enabling more accurate predictions. The solution supports operational decision-making, helps meet environmental standards, and promotes a proactive approach to managing CO₂ emissions in steel production.
 
