@@ -36,7 +36,7 @@ Here’s an overview of the projects within each folder:
   
 ### 🏷️ **Classification Projects**
 1. **Credit Risk Prediction**: Predicting whether a borrower will default on a loan based on historical data using classification algorithms like Logistic Regression and Random Forest.
-2. **Spam Email Detection**: Classifying emails as spam or not spam using techniques like Naive Bayes and Support Vector Machines (SVM).
+
 
 ### 📊 **Clustering Projects**
 1. **Customer Segmentation**: Applying K-Means clustering to segment customers based on purchase behavior and demographics.
