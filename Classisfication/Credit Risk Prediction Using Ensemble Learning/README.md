@@ -57,5 +57,5 @@ The Voting Classifier combines the predictions of Random Forest and Logistic Reg
 ## Streamlit Application
 
 Explore the model interactively via the Streamlit app:  
-[Credit Risk Prediction App](https://your-streamlit-app-link.com)
+[Credit Risk Prediction App](https://credit-risk-prediction1.streamlit.app/)
 
