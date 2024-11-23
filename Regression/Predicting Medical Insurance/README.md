@@ -1,5 +1,5 @@
 
-# Predicting Medical Insurance Charges using Machine Learning 🚀
+# Medical Insurance Cost Estimation 
 
 ## Problem Statement
 Healthcare costs are a significant concern for individuals and insurance companies alike. Predicting medical insurance charges accurately can help individuals plan for expenses and assist insurance providers in pricing policies effectively.
